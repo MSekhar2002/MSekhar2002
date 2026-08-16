@@ -1,41 +1,226 @@
-<!-- EPIC HERO SECTION -->
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Maddili%20Muni%20Sekhar&desc=Tech%20Virtuoso%20%7C%20Digital%20Innovator&animation=twinkling&fontColor=FFFFFF&fontSize=50&descSize=25&descAlignY=65&stroke=00ff00"/>
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=35&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Visionary+Entrepreneur;Code+Architect;Innovation+Engineer" />
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-<br>
-<!-- Neon Quote -->
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=00FFB0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Transforming+Ideas+into+Digital+Reality;Where+Innovation+Meets+Excellence" />
-</div>
-<br><!-- ELITE SKILLS MATRIX --><div align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="1000"> </div><!-- LEGENDARY TECH STACK --><h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> 🛠️ TECH ARSENAL 🛠️ <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> </h1><!-- ANIMATED SKILLS SHOWCASE --><div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,nestjs,python,fastapi,tensorflow,pytorch,aws,docker,kubernetes,mysql,postgres,redis,graphql,threejs&theme=dark&perline=10" /> </div><!-- <!-- EPIC SKILL MATRIX --><details> <summary align="center">🌟 QUANTUM EXPERTISE MATRIX 🌟</summary> <div>
 
-  ```javascript
-const LEGENDARY_ARCHITECT = {
-    title: "Digital Transformation Maestro 🚀",
-    expertise: {
-        frontend: {
-            frameworks: ["React ⚛️", "Next.js ▲", "Vue.js 🌈"],
-            styling: ["TailwindCSS 🎨", "Styled-Components 💅", "SASS 🎯"],
-            animation: ["Framer Motion 🎭", "GSAP ✨", "Three.js 🌟"]
-        },
-        backend: {
-            node: ["Express 🚂", "NestJS 🏰", "Socket.io 🔌"],
-            python: ["FastAPI 🚀", "Django 🐍", "Flask 🍶"],
-            databases: ["MongoDB 🍃", "PostgreSQL 🐘", "Redis ⚡"]
-        },
-        devOps: ["Docker 🐳", "Kubernetes ☸️", "AWS ☁️", "Terraform 🏗️"],
-        architecture: ["Microservices 🏗️", "Event-Driven 🔄", "Serverless ⚡"],
-        ai_ml: ["Computer Vision 👁️", "NLP 🗣️", "Deep Learning 🧠"],
-        current_mission: "Revolutionizing Digital Landscapes 🌍"
-    }
-};
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:1a1a2e&text=Maddili%20Muni%20Sekhar&fontColor=00FFB0&fontSize=42&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Digital%20Innovator%20%C2%B7%20Entrepreneur&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=00FFB0&center=true&vCenter=true&width=560&lines=Transforming+ideas+into+digital+reality.;Building+scalable+products+end+to+end.;Code+today.+Impact+tomorrow." alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/munisekharmaddili">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+<a href="mailto:munisekhar654@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+<a href="https://github.com/msekhar2002">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=msekhar2002&style=flat-square&color=00FFB0&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/msekhar2002?style=flat-square&color=00FFB0&labelColor=0A0A0A&label=FOLLOWERS" />
+<br/><br/>
+
+<img src="https://camo.githubusercontent.com/8af9017dd7f10c5aa44ad59fe81ceefcce2ff41797398f7c9dcb3f7148f377a7/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d536174697366792673697a653d33352670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d363030266865696768743d3730266c696e65733d46756c6c2b537461636b2b446576656c6f7065723b566973696f6e6172792b456e7472657072656e6575723b436f64652b4172636869746563743b496e6e6f766174696f6e2b456e67696e656572" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+</div>
+
+
+
+<table align="center" width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
+
+### 01 · About Me
+
+I'm **Muni Sekhar**  a full-stack developer and entrepreneur who turns ambitious ideas into production-ready software. I move fluidly across the stack, from resilient backend architectures to polished, intuitive interfaces, always optimizing for scale, performance, and clean design.
+
+Beyond code, I think like a builder  validating ideas, shipping fast, and iterating with purpose.
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+role:      Full-Stack Developer
+focus:     Web · AI · Cloud
+mindset:   Ship fast, iterate always
+status:    Building something new
+reach:     Open to collabs & ideas
 ```
-</div> </details>><!-- ELITE CONTRIBUTION SNAKE --><div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div> </div><!-- ANIMATED CONNECTION PORTALS --><h1 align="center">🌐 DIGITAL NEXUS 🌐</h1> <div align="center"> <a href="https://www.linkedin.com/in/munisekharmaddili"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:munisekhar654@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/msekhar2002"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div><!-- EPIC VIEW COUNTER --><div align="center"> <h2>🔮 LEGENDARY VISITOR COUNT 🔮</h2> <img src="https://profile-counter.glitch.me/msekhar2002/count.svg" /> </div><!-- ANIMATED FOOTER --><!-- PREMIUM WAVE DIVIDER --><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 02 · Right Now
+
+</div>
+
+<table align="center" width="100%" border="0" cellspacing="8">
+<tr>
+<td width="33%" align="center">
+
+🔭 **Building**
+<br/>
+<sub>Full-stack products with AI-driven features</sub>
+
+</td>
+<td width="33%" align="center">
+
+🌱 **Exploring**
+<br/>
+<sub>Applied ML, cloud-native architecture</sub>
+
+</td>
+<td width="33%" align="center">
+
+🤝 **Open to**
+<br/>
+<sub>Collaborations, freelance & startup ideas</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 03 · Tech Stack
+
+<br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs&theme=dark&perline=6" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,graphql&theme=dark&perline=6" />
+
+<br/><br/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
+
+<br/><br/>
+
+**Cloud & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mysql,postgres,redis&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 04 · What I Build
+
+</div>
+
+<table align="center" width="100%" border="0" cellspacing="10">
+<tr>
+<td width="33%" align="center" valign="top">
+
+**🖥 Web Platforms**
+<br/>
+Full-stack apps with React / Next.js frontends and Node.js / Python backends  built for scale and speed.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**⚙️ APIs & Systems**
+<br/>
+Robust REST & GraphQL services, microservice architectures, and event-driven systems.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🤖 AI-Powered Products**
+<br/>
+Intelligent features using computer vision, NLP, and applied deep learning models.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+**☁️ Cloud & DevOps**
+<br/>
+Containerized, CI/CD-driven deployments on AWS with Docker & Kubernetes.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🚀 MVPs & Startups**
+<br/>
+Rapid-prototyping and product builds for early-stage ideas, from zero to launch.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**🎨 Interactive UI**
+<br/>
+Motion-rich, accessible interfaces using Tailwind, Framer Motion, and Three.js.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 05 · Philosophy
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=Great+products+are+built+at+the+intersection+of+code+and+conviction.;Simplicity+is+the+ultimate+sophistication+in+engineering." />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 06 · Contribution Activity
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 07 · Let's Connect
+
+<a href="https://www.linkedin.com/in/munisekharmaddili">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+<a href="mailto:munisekhar654@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+<a href="https://github.com/msekhar2002">
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFB0&labelColor=0A0A0A" />
+</a>
+
+<br/><br/>
+
+<sub>© 2026 Muni Sekhar · Designed with precision, built with code.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a2e,100:0f0f0f&section=footer" width="100%"/>
+
+</div>
